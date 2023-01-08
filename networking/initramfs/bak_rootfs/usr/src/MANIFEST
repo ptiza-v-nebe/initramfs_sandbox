@@ -1,0 +1,20 @@
+Built on 2016-01-11 from:
+
+  Build script:
+    Aboriginal Linux (http://landley.net/aboriginal) mercurial rev 
+
+  Base packages:
+    uClibc (http://uclibc.org) release version 0.9.33.2
+    BusyBox (http://busybox.net) release version 1.24.1
+    Linux (http://kernel.org/pub/linux/kernel) release version 4.3
+    toybox (http://landley.net/toybox) release version 0.6.1
+
+  Toolchain packages:
+    Binutils (http://www.gnu.org/software/binutils/) release version 3
+    GCC (http://gcc.gnu.org) release version 4.2.1
+    gmake (http://www.gnu.org/software/make) release version 3.81
+    bash (ftp://ftp.gnu.org/gnu/bash) release version 2.05b
+
+  Optional packages:
+    distcc (http://distcc.samba.org) release version 3.1
+    uClibc++ (http://cxx.uclibc.org) release version 0.2.2

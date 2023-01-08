@@ -1,0 +1,2 @@
+CROSS_TARGET=x86_64-unknown-linux
+KARCH=x86_64
